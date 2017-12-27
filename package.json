@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "q": "^1.4.1",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "request-debug": "^0.2.0"
   }
 }

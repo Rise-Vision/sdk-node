@@ -1,4 +1,6 @@
 request = require("request")
+require('request-debug')(request);
+
 Q = require("q")
 qs = require("querystring")
 
